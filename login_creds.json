@@ -1,12 +1,44 @@
 {
-    "0001":"password@01",
-    "0002":"password@02",
-    "0003":"password@03",
-    "0004":"password@04",
-    "0005":"password@05",
-    "0006":"password@06",
-    "0007":"password@07",
-    "0008":"password@08",
-    "0009":"password@09",
-    "0010":"password@10"
- }
+  "users": [
+    {
+      "username": "0001",
+      "password": "password@01"
+    },
+    {
+      "username": "0002",
+      "password": "password@02"
+    },
+    {
+      "username": "0003",
+      "password": "password@03"
+    },
+    {
+      "username": "0004",
+      "password": "password@04"
+    },
+    {
+      "username": "0005",
+      "password": "password@05"
+    },
+    {
+      "username": "0006",
+      "password": "password@06"
+    },
+    {
+      "username": "0007",
+      "password": "password@07"
+    },
+    {
+      "username": "0008",
+      "password": "password@08"
+    },
+    {
+      "username": "0009",
+      "password": "password@09"
+    },
+    {
+      "username": "0010",
+      "password": "password@10"
+    }
+  ]
+}
