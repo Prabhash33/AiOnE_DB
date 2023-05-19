@@ -5,9 +5,24 @@
         "desc": "Hive at SAP is a group of interested people working together to achieve a common goal. This space is dedicated for all sorts of new innovation and on upcoming modern technologies"
     },
     {
+        "dept": "01",
+        "title": "HIVE Experiments",
+        "desc": "Experiments in HIVE allow to explore your curiosity in any field i.e. IOT, Metaverse, or any side project you want"
+    },
+    {
         "dept": "03",
         "title": "Seminar 1",
         "desc": "Full day workshop on time management on April 14 at seminar hall"
+    },
+    {
+        "dept": "03",
+        "title": "Seminar 3",
+        "desc": "Full day workshop on work management on April 14 at seminar hall"
+    },
+    {
+        "dept": "03",
+        "title": "Seminar 4",
+        "desc": "Care at work: a seminar on best practices of mental health"
     },
     {
         "dept": "02",
