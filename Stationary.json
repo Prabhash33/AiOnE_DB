@@ -1,32 +1,32 @@
 [
-    {
-        "item": "pen",
-        "count": "200",
-        "price":"20"
-    },
-    {
-        "item": "pencil",
-        "count": "350",
-        "price":"10"
-    },
-    {
-        "item": "eraser",
-        "count": "178",
-        "price":"5"
-    },
-    {
-        "item": "sharpener",
-        "count": "300",
-        "price":"8"
-    },
-    {
-        "item": "notepad",
-        "count": "1000",
-        "price":"70"
-    },
-    {
-        "item": "magnet",
-        "count": "218",
-        "price":"32"
-    }
+  {
+    "item": "pen",
+    "count": "200",
+    "price": "20"
+  },
+  {
+    "item": "pencil",
+    "count": "350",
+    "price": "10"
+  },
+  {
+    "item": "eraser",
+    "count": "178",
+    "price": "5"
+  },
+  {
+    "item": "sharpener",
+    "count": "300",
+    "price": "8"
+  },
+  {
+    "item": "notepad",
+    "count": "1000",
+    "price": "70"
+  },
+  {
+    "item": "magnet",
+    "count": "218",
+    "price": "32"
+  }
 ]
