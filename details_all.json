@@ -88,5 +88,14 @@
       "phone":"9988776655",
       "address":"#56,abc street, bangalore-57",
       "blood":"B+"
+   },
+   {
+      "id":"2021sp93057",
+      "name":"Swaraj Kumar",
+      "img":"https://github.com/dpar39/ppp/blob/master/libppp/test/data/TestCroppingWorks_croppedPhoto.png",
+      "email":"swaraj.kumar@sap.com",
+      "phone":"9988776655",
+      "address":"#305, kundalahalli, brookefield-76",
+      "blood":"AB+"
    }
 ]
